@@ -1,0 +1,369 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true coppie of a prophesie which was found in old ancient house of one Master Truswell, sometime recorder of a towne in Lincolne-shire. Which in all mens judgements was not unwritten these 300 yeares. And supposed to be seene still in a writing of parchment, at Stow in the aforesaid countie, being the mother church of Lincolne Minster. Whereunto is added Mother Shiptons prophesies.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A95010</idno>
+            <idno type="STC">Wing T2633</idno>
+            <idno type="STC">Thomason E149_16</idno>
+            <idno type="STC">ESTC R2892</idno>
+            <idno type="EEBO-CITATION">99872218</idno>
+            <idno type="PROQUEST">99872218</idno>
+            <idno type="VID">156724</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A95010)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156724)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 26:E149[16])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true coppie of a prophesie which was found in old ancient house of one Master Truswell, sometime recorder of a towne in Lincolne-shire. Which in all mens judgements was not unwritten these 300 yeares. And supposed to be seene still in a writing of parchment, at Stow in the aforesaid countie, being the mother church of Lincolne Minster. Whereunto is added Mother Shiptons prophesies.</title>
+                  <author>Shipton, Mother (Ursula)</author>
+                  <author>Truswell, Mr.</author>
+               </titleStmt>
+               <extent>8 p. : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed for Henry Marsh,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>With a title-page woodcut.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Prophecies --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Prophecies --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-11</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>SPi Global</label>Rekeyed and resubmitted</change>
+         <change>
+            <date>2010-03</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-03</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156724:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 42 -->
+            <p>A True Coppie of a Propheſie which was found in old ancient houſe of one Maſter <hi>Truſwell,</hi> ſometime Recorder of a Towne in <hi>Lincolne-ſhire.</hi>
+            </p>
+            <p>Which in all mens judgements was not unwritten theſe 300 yeares.</p>
+            <p>And ſuppoſed to be ſeene ſtill in a writing of Parcment, at <hi>Stow</hi> in the aforeſaid Countie, being the mother Church of <hi>Lincolne</hi> Minſter.</p>
+            <p>Whereunto is added Mother <hi>Shiptons</hi> Propheſies.</p>
+            <figure>
+               <figDesc>a man sits at a table holding astrological instruments, with a astrological book, and quill pen and inkwell</figDesc>
+            </figure>
+            <p>LONDON, Printed for <hi>Henry Marſh.</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="list_of_prophets">
+            <pb n="2" facs="tcp:156724:2"/>
+            <!-- PDF PAGE 43 -->
+            <head>A Propheſie of a King that ſhall win the <hi>Holy Croſſe,</hi> propheſied by many and their names as followeth.</head>
+            <p n="1">
+               <seg rend="decorInit">F</seg>Irſt, Saint <hi>Thomas</hi> calleth him a virgin King in brightneſſe like an Angell.</p>
+            <p n="2">
+               <hi>2 Merlin</hi> calleth him a Bull threefold of nature, that is to ſay, true Inheritour of England, Ireland, and Caſtile.</p>
+            <p n="3">
+               <hi>3 Iohn</hi> the Hermit calleth him the King of H<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rds, that is to ſay, the King of many Hoaſts and Kingdomes.</p>
+            <p n="4">
+               <hi>4 Merlin Sylveſter</hi> calleth him the King of Wretches, that is to ſay, there ſhall be ſo much pride, leach<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rie, ſin and theft, at his beginning, that he ſhall have much work to correct them.</p>
+            <p n="5">
+               <hi>5 Albion</hi> the Monk of Al<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ine calleth him a Lyon of the aire, that ſhall take his wings and flye to Rome, and ſhall be Em<g ref="char:EOLhyphen"/>perour, and his name ſhall be <hi>Edward.</hi>
+            </p>
+            <p n="6">
+               <hi>6 Alphion</hi> the Proph<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t calleth him the Wester<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e Beaſt, which diſplayeth th<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> black Bull with the golden hor<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es, firſt in the Eaſt, and in his d<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>yes ſhall be deſtroyed the falſe Preachers for their un<g ref="char:EOLhyphen"/>t<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uth, and he ſhall win a great part of the world, and make a free way to the Holy Land, and his name ſhall be <hi>Edward,</hi> and in his
+<pb n="3" facs="tcp:156724:2"/>
+               <!-- PDF PAGE 43 -->dayes many tokens of Antechriſt and other marvels ſhall be ſeene.</p>
+            <p n="7">
+               <hi>7 Mallaycus</hi> Abbot of Ireland, calleth him the ſixth of Jre<g ref="char:EOLhyphen"/>land, which will not be governed by no man; but by God and him<g ref="char:EOLhyphen"/>ſelfe, and in his dayes ſhall Friars and Monks for their untruths and falſhood ſuffer puniſhment, and he ſhall be c<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lled <hi>Edward.</hi>
+            </p>
+            <p n="8">
+               <hi>8 Sybill</hi> the wiſe calleth him, The ſecond Lyon of all beaſts, which ſhall win the holy Croſſe, and in his yeares ſhall be deſtroyed Friars and Charmers.</p>
+            <p n="9">
+               <hi>9 David</hi> in the Pſalmes calleth him an <g ref="char:V">Ʋ</g>nicorne, which ſhall never turne his face from his enemies, nor of any be betrayed.</p>
+            <p n="10">
+               <hi>10 Banniſter</hi> of England calleth him, a Beare of a cleane veſ<g ref="char:EOLhyphen"/>ſell, which ſhall never be defiled, nor of any be betrayed; in his time much of the Church of England ſhall be puniſhed, for their examples given.</p>
+            <p n="11">
+               <hi>11</hi> The Doctor Saint <hi>Ierome</hi> calleth him, the true Dragon, which was chriſtened in no font; and hee ſhall tread under his feet the King of pride, and then he ſhall take his way to the holy Land.</p>
+            <p n="12">
+               <hi>12 Maconit</hi> calleth him to the minds of the delectable Roſe of Britaine, and he ſhall be defended of all Maidens, Widdowes, and Orphans, and he ſhall destroy all falſhood, and maintaine all truth.</p>
+            <p n="13">
+               <hi>13 Iohn de Rapſiſſa</hi> calleth him, the delectable Roſe of Rome and Britaine; and by the hands of him, the Pope and all his Col<g ref="char:EOLhyphen"/>leges and Cardinals ſhall be brought after the life of Chriſt; ſo they ſhall goe bare footed and bare legged without ſhirts on their backs, and money in their purſes; and he ſhall win the holy Croſſe, and bring it into France, he ſhall make peace thorowout the wh<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>le world, and ſhall be buried with the three Kings of Colen; and when hee is buried, a<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>yce ſhall ſay, <hi>Lye further my Chriſtian brethren here is our fourth brother.</hi>
+            </p>
+            <p n="14">
+               <hi>14</hi> Saint <hi>Bede</hi> the Prieſt calleth him, a Lyon of a cleane veſ<g ref="char:EOLhyphen"/>ſell, which by the hands of him, much of the Church of England ſhall be puniſhed for their examples given, and he ſhall be Prote<g ref="char:EOLhyphen"/>ctour over all Chriſtendome.</p>
+            <pb n="2" facs="tcp:156724:3"/>
+            <!-- PDF PAGE 44 -->
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="3" facs="tcp:156724:3"/>
+            <!-- PDF PAGE 44 -->
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+         <div type="prophecies">
+            <pb n="4" facs="tcp:156724:4"/>
+            <!-- PDF PAGE 45 -->
+            <head>The Propheſie followeth.</head>
+            <p>THe Lilly ſhall remaine in a merry world, and hee ſhall be moved againſt the ſeed of the Lyon, and hee ſhall ſtand on one fide amongſt thrones of his Kingdome and Countrey: And there ſhall come the Son of man bearing three wild beaſts in his Armes, which Kingdome is the Land of the Moone, which is to be dread thorowout all the world, with a company of people he ſhall paſſe many waters, and hee ſhall come to the Land of the Lyon, looking for help, with the beaſts of his owne Countrey: And in that yeare there ſhall come an Eagle out of the f<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſt, and his wings ſpred with the beames of the ſon of man; and that yeare ſhall be deſtroyed Caſtles upon Thames, and there ſhall be great feare over the whole world; and in a part of the Land there ſhall be great battels amongſt many Kingdomes: That day ſhall be the bloudy field, and the Lilly ſhall loſe his Crowne, and therewith ſhall be crowned the Son of man. And in the fourth yeere, many battels ſhall be for the faith, and moſt of the world ſhall be ſtoopen, but the Son of man with the Eagle ſhall be preferred; and there ſhall be u<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iverſall peace over the whole world, then ſhall the Son of man receive a ma<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>vellous token, and there ſhall bes great plentie of all manner of fruits, and then ſhall hee goe to the Land of the Croſſe.</p>
+            <p>The Son of man is the King of England, the Lilly is the French King, the Lyon is Flanders, <hi>alias</hi> Scotland, the Moone is England and W<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>les, the Son is France, the Eagle is the Em<g ref="char:EOLhyphen"/>perour; the Seed, <hi>alias</hi> Head of the world is the Pope; the marvellous token is the Holy Croſſe.</p>
+            <p>
+               <hi>And the Coppie of this Pro<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>heſie was found in an old antient houſe of one Maſter</hi> Truſwe<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l, <hi>Recorder of a certaine Towne, and by all mens judgements was not unwritten theſe</hi> 300 <hi>yeares.</hi>
+            </p>
+            <div n="first" type="prophecy">
+               <pb n="5" facs="tcp:156724:4"/>
+               <!-- PDF PAGE 45 -->
+               <head>This firſt Propheſie of Mother <hi>Shipton</hi> was in the raigne of <hi>Edward</hi> the fourth.</head>
+               <q>
+                  <l>IF Eightie eight be paſt, then thrive</l>
+                  <l>Thou mayſt, till thirtie ſoure, o<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ive.</l>
+                  <l>After the <hi>E</hi> is dead, a <hi>Scot</hi>
+                  </l>
+                  <l>Shall governe there — and if a plot</l>
+                  <l>Prevent him not, ſure then his ſway</l>
+                  <l>Continue ſhall t<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ll many a day</l>
+                  <l>The N<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rth ſhall dye youn<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>, a<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>d the firſt</l>
+                  <l>Perhaps ſhall <gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>gnes but (oh) accurſt</l>
+                  <l>Sh<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ll b<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> the time, wh<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n thou ſhalt ſee</l>
+                  <l>To fi<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>te<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n joyned twentie th<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e;</l>
+                  <l>For then the Eagle ſhall have help</l>
+                  <l>By craft to catch the Lyons whe<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>p,</l>
+                  <l>And hurt him ſore, except the ſame</l>
+                  <l>Be cured by the Maidens name.</l>
+                  <l>In <hi>Iuly</hi> month of the ſame yeere</l>
+                  <l>
+                     <hi>Saturne</hi> conjoynes with <hi>Iupiter.</hi>
+                  </l>
+                  <l>Perhaps falſe Prophets ſhall ariſe,</l>
+                  <l>And <hi>Mahomet</hi> ſhall ſhew his prize.</l>
+                  <l>And ſure ſuch alteration</l>
+                  <l>Shall happen in Religion.</l>
+                  <l>Beleeve this truly, if then you ſee</l>
+                  <l>A <hi>Spanyard</hi> a Proteſtant to bee.</l>
+               </q>
+               <p>The lines (I confeſſe impartially) are very myſterious, and with<g ref="char:EOLhyphen"/>all they are involved in a ſtupendious obſcuritie. They ſeeme as ae<g ref="char:EOLhyphen"/>nigmaticall, as <hi>Sphynx</hi> his hidden Riddle, yet I doubt not, but that your judicious minds will prove as auſpitious unto this, as <hi>Oedipus</hi> did to his.</p>
+               <p>You may enucleate the genuine ſenſe and ſignification of the words, if you doe but ſeriouſly revolve them.</p>
+            </div>
+            <div n="second" type="prophecy">
+               <head>The ſecond Propheſie of Mother <hi>Shipton,</hi> found in <hi>Henry</hi> the eight his dayes.</head>
+               <p>WHen ſhe heard King <hi>H<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nry</hi> the Eighth ſhould be King, and Cardinall <hi>Wolſey</hi> ſhould be at York, ſhee ſaid that Cardinall <hi>Wolſey</hi> ſhould never come to York with the King, and the Cardinall hear<gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>g bei<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>g angry, ſent the Duke of Suffolk and the Lord <hi>Darcie</hi> to her, who came with their men diſguiſed to the Kings Houſe neere York, where leaving their men, they went to Maſter <hi>Beſley</hi> to York, and deſired him to goe with them to Mother <hi>Shiptons</hi> houſe, where w<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>en they came they knocked at the doore, ſhe ſaid, Come in Ma<g ref="char:EOLhyphen"/>ſter <hi>Beſley,</hi> and thoſe honourable Lords with you, and Maſter <hi>Beſley</hi> would have put in the Lords before him; but ſhe ſaid, Come in Ma<g ref="char:EOLhyphen"/>ſter <hi>Beſley</hi> you know the way, but they doe not. This they thought ſtrang<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, that ſhee ſhould know them, and never ſaw them; then they went into the houſe, where there was a great fire, and ſhe bade them welcome, calling them all by their names, and ſent for ſome Cakes and Ale, and they drunk and were very merry. Mother
+<pb n="6" facs="tcp:156724:5"/>
+                  <!-- PDF PAGE 46 -->
+                  <hi>Shipton,</hi> ſaid the Duke<g ref="char:punc">▪</g> if you knew what we come about you would not make us ſo welcome; and ſhe ſaid, the Meſſenger ſhould not be <gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>nged: Mother <hi>Shipton,</hi> ſaid the Duke, you ſaid the Cardinall ſhould <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ever ſ<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e York; Yea, ſaid ſhe, I ſaid he might ſee York <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> never come <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> it; But ſaid the Duke, when hee comes to York thou ſhalt be <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> We ſhall ſee that, ſaid ſhe and plucking her Handker<g ref="char:EOLhyphen"/>chieff off her head, ſhe threw it into the ſire, and it would not burn, then <gap reason="illegible" resp="#OXF" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> ſta<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>fe and turned it into the fire, and it would not burn<gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> the<gap reason="illegible" resp="#OXF" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> took it and put it on againe: Now (ſaid ſhe) I might have burned. Mother <hi>Shipton</hi> (quoth the Duke) what think you of m<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>? My Love, ſaid ſhe, the time will come you will be as low as I am, and that is a low one indeed. My Lord <hi>Pearci<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> ſaid, What ſay you of me? My Lord (ſaid ſhe) ſhooe your horſe in the quick, and you ſhall doe well; but your body will be buried in York pavement, and your head ſhall be ſto<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ne from the Bar, and carried into <hi>France.</hi> Then ſaid the Lord <hi>Darcie,</hi> And what think you of me? Shee ſaid, you have made a great Gun, ſhoot it off, for it will doe you no good, you are going to war, you will paine many a man, but you will kill none; ſo they went away.</p>
+               <p>Not long after the Cardinall came to <hi>Cawood,</hi> and going to the top of the Tower, hee asked where York was, and how far it was thither, and ſaid that one had ſaid hee ſhould never ſee York<g ref="char:punc">▪</g> Nay, ſaid one, ſhee ſaid you might ſee York, but never come at it. Hee vowed to burne her when he came to York. Then they ſhewed him York, and told him it was but eight miles thence: He ſaid that hee would be ſoone there: but being ſent for by the King, he dyed in the way to <hi>London,</hi> at <hi>Leicester,</hi> of a Lask; And <hi>Shiptons</hi> Wife ſaid to Maſter <hi>Beſley,</hi> yonder is a fine ſtall, built for the Cardinall in the Minſter, of Gold, Pearle, and precious ſtones, goe and preſent one of the Pillars to King <hi>Henry,</hi> and he did ſo.</p>
+               <p>Maſter <hi>Beſl<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e,</hi> ſeeing theſe things fall out as ſhee had foretold, deſired her to tell him ſome more of her Propheſies; Maſter, ſaid ſhee, before that <hi>Owſe</hi> Bridge and Trinitie Church meet, they ſhall build on the day, and it ſhall fall in the night, untill they get the higheſt ſtone in Trinitie Church, to be the loweſt ſtone of <hi>Owſe</hi> Bridge; then the day will come when the North ſhall rue it won<g ref="char:EOLhyphen"/>drous ſore, but the South ſhall rue it for evermore: When Ha<gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>s kindle on cold hearth ſtones, and Lads ſhall marry Ladies, and bring them home, then ſhall you have a yeare of pining hunger,
+<pb n="7" facs="tcp:156724:5"/>
+                  <!-- PDF PAGE 46 -->and then a dearth without Corne; A wofull day ſhall be ſeene in Eng<g ref="char:EOLhyphen"/>land, a King and Queene, the firſt comming of the King of Scots ſhall be at Holgate Towne; but hee ſhall not come thorow the Bar, and when the King of the North ſhall be at London Bridge, his Taile ſhall bee at Edenborough: After this ſhall water come over <hi>Owſe</hi> Bridge, and a Windmill ſhall be ſet on a Tower, and an Elin-tree ſhall lye at every mans doore, at that time women ſhall weare great Hats and great Bands, and when there is a Lord Mayor at York, let him beware of a ſtab: When two Knights ſhall fall out in the Caſtle yard, they ſhall never bee kindly all th<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ir lives after: When all Colton Hag hath borne crops of Corne, ſeven yeares after you ſhall heare newes, there ſhall be two Judges go in and out at Mungate Bar.</p>
+               <q>
+                  <l>Then wars ſhall begin in the Spring,</l>
+                  <l>Much we to <hi>England</hi> it ſhall bring:</l>
+                  <l>Then ſhall the Ladies cry well-away,</l>
+                  <l>That ever we liv'd to ſee this day.</l>
+               </q>
+               <p>Then beſt for them that have the leaſt, and worſt for them that have the moſt, you ſhall not know of the War over night, yet you ſhall have it in the morning, and when it comes it ſhall laſt three yeares, between <hi>Ca<g ref="char:EOLhyphen"/>dron</hi> and <hi>Aire</hi> ſhall be great warfare, when all the world is as a loſt, it ſhall be called Chriſts croft, when the battell begins, it ſhall bee where Crook-back <hi>Richard</hi> made his fray, they ſhall ſay, To warfare for your King for halfe a Crowne a day, but ſtir not (ſhe will ſay) to warfare for your King, on paine of hanging, but ſtir not, for hee that goes to com<g ref="char:EOLhyphen"/>plaine ſhall not come back againe. The time will come when England ſhall tremble and quake for feare of a dead man that ſhall be heard to ſpeake, then will the Dragon give the Bull a great ſnap, and when the one is downe they will goe to London Towne; Then there will bee a great battell betweene England and Scotland, and they will be pacified for a time, and when they come to Brammamore, they fight and are a<g ref="char:EOLhyphen"/>gaine pacified for a time then there will be a great battell between Eng<g ref="char:EOLhyphen"/>land and Scotland at Stoknmore: Then will Ravens ſit on the Croſſe, and drink as much bloud of Nobles, as of the Commons, then woe is me, for London ſhall bee deſtroyed for ever after: Then there will come a woman with one eye and ſhe ſhall tread in many mens bloud to the knee, and a man leaning on a ſtaffe by her, and ſhe ſhall ſay to him, What art thou? and he ſhall ſay, I am the King of Scots, and ſhee ſhall ſay, Goe with me to my houſe, for there are three Knights; and he will goe with her, and ſtay there three dayes and three nights; then will England bee
+<pb n="8" facs="tcp:156724:6"/>
+                  <!-- PDF PAGE 47 -->loſt, and they will cry twice a day, England is loſt: Then there will bee three Knights in <hi>Petergate</hi> in York, and the one ſhall not know of the other: There ſhall be a Child borne in Pomfret with three thumbs, and thoſe three Knights will give him three horſes to hold, while they win England, and all noble bloud ſhall be gone but one, and they ſhall carrie him to Sheriffe <hi>Nuttons</hi> Caſtle ſix miles from York, and hee ſhall dye there, and they ſhall chuſe there an Earle in the field, and hanging their horſes on a thorne, and rue the time that ever they were borne, to ſee ſo much bloud ſhed. Then they will come to York to beſiege it, and they ſhall keep them out three dayes and three nights, and a penny Loaſe ſhall be within the Bar at halfe a Crowne, and without the Bar at a penny; And they will ſweare, if they will not yeeld, to blow up the Town wals. Then they will let them in, and they will hang up the Mayor, Sheriffes and Aldermen, and they will goe into Crouch Church, there will three Knights goe in, and but one come out againe, and hee will cauſe Procla<g ref="char:EOLhyphen"/>mation to be made, that any man may take Houſe, Tower, or Bower for twentie one yeares, and whilſt the world endureth, there ſhall never be warfare againe, nor any more Kings or Queenes, but the Kingdome ſhall be governed by three Lords, and then ſhall York be London. And after this ſhall be a white Harveſt of Corne gotten in by women. Then ſhall be in the North, that one woman ſhall ſay unto another, Mother I have ſeene a man to day, and for one man there ſhall be a thouſand wo<g ref="char:EOLhyphen"/>men, there ſhall be a man ſitting upon Saint <hi>Iames</hi> Church hill weeping his fill: And after that a ſhip come ſailing up the <hi>Thames</hi> till it come a<g ref="char:EOLhyphen"/>gainſt London, and the Maſter of the ſhip ſhall weep, and the Mariners ſhall ask him why he weepeth, being he hath made ſo good a voyage, and he ſhall ſay. Ah what a goodly Catie this was, none in the world compa<g ref="char:EOLhyphen"/>rable to it, and now there is ſcarce left any houſe that can let us have drink for our money.</p>
+               <q>
+                  <lg>
+                     <l>Vahappie he that lives to ſee theſe dayes,</l>
+                     <l>But happie are the dead, <hi>Shiptons</hi> wife ſayes.</l>
+                  </lg>
+                  <lg>
+                     <l>In th'worlds old age, this woman did foretell</l>
+                     <l>Strange things ſhould hap, which in our times have fell.</l>
+                  </lg>
+               </q>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
